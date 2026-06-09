@@ -1,16 +1,108 @@
-## Hi there 👋
+<div align="center">
+  <img src="./IMG_1549.JPG" alt="大きな波" width="100%">
+</div>
 
-<!--
-**miscato08/miscato08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<h1 align="center">Ferenc Burian</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <code>AI / ML Engineer_</code>
+</p>
+
+<p align="center">
+  <i>building quiet systems with loud consequences.</i>
+</p>
+
+<br>
+
+---
+
+### ◆ About
+
+I build **AI systems** end to end — from data pipelines to production agents.
+Currently focused on **LLMs**, **agent workflows**, and **clean ML infrastructure**.
+
+- ▸ **Main focus:** LLM applications & autonomous agent systems
+- ▸ **Technical interests:** Retrieval, evals, agent orchestration, ML infra
+- ▸ **Data:** Warehousing, pipelines, analytics on Google Cloud
+- ▸ **Beyond code:** clarity over cleverness — systems that survive contact with reality.
+
+<br>
+
+---
+
+### ◆ Tech Stack
+
+<div align="center">
+
+**◇ AI / ML**
+
+![Python](https://img.shields.io/badge/PYTHON-0a0a0a?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PYTORCH-0a0a0a?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-0a0a0a?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OPENAI-0a0a0a?style=flat-square&logo=openai&logoColor=white)
+
+**◇ Web**
+
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0a0a0a?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/REACT-0a0a0a?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/NEXT.JS-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**◇ Data & Cloud**
+
+![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GOOGLE_CLOUD-0a0a0a?style=flat-square&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BIGQUERY-0a0a0a?style=flat-square&logo=googlebigquery&logoColor=white)
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./IMG_1548.JPG" alt="—" width="180">
+</div>
+
+<br>
+
+---
+
+### ◆ Stats
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=miscato08&show_icons=true&theme=transparent&hide_border=true&icon_color=ffffff&title_color=ffffff&text_color=999999&ring_color=ffffff" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miscato08&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999" />
+
+</div>
+
+<br>
+
+---
+
+### ◆ Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferenc.burian@new-digital-intelligence.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferenc-burian-b12889228/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0a0a0a?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wrld.of.ferenc/)
+
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="./IMG_1543.JPG" alt="creation" width="100%">
+</div>
+
+<br>
+
+<div align="center">
+  <sub><code>静寂 · silence_</code></sub>
+</div>
+
+<div align="center">
+  <sub>"small force, applied long, moves mountains."</sub>
+</div>

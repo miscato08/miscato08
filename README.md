@@ -72,13 +72,22 @@ Currently focused on **LLMs**, **agent workflows**, and **clean ML infrastructur
 
 ---
 
-### ◆ Stats
+### ◆ Collaboration Stats
 
 <div align="center">
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=miscato08&bg_color=00000000&color=cccccc&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=Contributions%20%C2%B7%20Last%20Year&title_color=ffffff" alt="Contribution graph" />
+
+<br>
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=miscato08&background=00000000&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&dates=999999" alt="Streak stats" />
+
+<br>
+<br>
+
 ![Followers](https://img.shields.io/github/followers/miscato08?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=0a0a0a&label=FOLLOWERS)
 ![Profile Views](https://komarev.com/ghpvc/?username=miscato08&style=for-the-badge&color=0a0a0a&label=VIEWS)
-![Years](https://img.shields.io/badge/SINCE-2020-0a0a0a?style=for-the-badge&logoColor=white)
 
 </div>
 

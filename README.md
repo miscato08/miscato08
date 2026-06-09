@@ -76,8 +76,9 @@ Currently focused on **LLMs**, **agent workflows**, and **clean ML infrastructur
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=miscato08&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&icon_color=ffffff&title_color=ffffff&text_color=cccccc&ring_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miscato08&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc" />
+![Followers](https://img.shields.io/github/followers/miscato08?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=0a0a0a&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=miscato08&style=for-the-badge&color=0a0a0a&label=VIEWS)
+![Years](https://img.shields.io/badge/SINCE-2020-0a0a0a?style=for-the-badge&logoColor=white)
 
 </div>
 

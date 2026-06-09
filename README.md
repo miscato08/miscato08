@@ -20,6 +20,10 @@
 
 ### ◆ About
 
+<table>
+<tr>
+<td width="62%" valign="middle">
+
 I build **AI systems** end to end — from data pipelines to production agents.
 Currently focused on **LLMs**, **agent workflows**, and **clean ML infrastructure**.
 
@@ -27,6 +31,13 @@ Currently focused on **LLMs**, **agent workflows**, and **clean ML infrastructur
 - ▸ **Technical interests:** Retrieval, evals, agent orchestration, ML infra
 - ▸ **Data:** Warehousing, pipelines, analytics on Google Cloud
 - ▸ **Beyond code:** clarity over cleverness — systems that survive contact with reality.
+
+</td>
+<td width="38%" align="center" valign="middle">
+  <img src="./IMG_1548.JPG" alt="✦" width="340">
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -59,20 +70,14 @@ Currently focused on **LLMs**, **agent workflows**, and **clean ML infrastructur
 
 <br>
 
-<div align="center">
-  <img src="./IMG_1548.JPG" alt="—" width="180">
-</div>
-
-<br>
-
 ---
 
 ### ◆ Stats
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=miscato08&show_icons=true&theme=transparent&hide_border=true&icon_color=ffffff&title_color=ffffff&text_color=999999&ring_color=ffffff" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miscato08&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=miscato08&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&icon_color=ffffff&title_color=ffffff&text_color=cccccc&ring_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miscato08&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc" />
 
 </div>
 
